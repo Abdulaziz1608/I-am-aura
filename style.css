@@ -3,6 +3,7 @@
   font-family: "Roboto", sans-serif;
   font-weight: 700;
 }
+
 p {
   color: white;
 }
@@ -24,6 +25,9 @@ header{
     margin-bottom: 100px;
 }
 .aura {
+  position: fixed;
+  width: 100%;
+  height: 100%;
   font-size: 20px;
   display: flex;
   justify-content: space-between;
